@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Custom_Inductors")(type "KiCad")(uri "${KIPRJMOD}/Custom_Inductors.pretty")(options "")(descr ""))
+  (lib (name "Custom_Capacitors")(type "KiCad")(uri "${KIPRJMOD}/Custom_Capacitors.pretty")(options "")(descr ""))
+)

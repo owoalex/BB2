@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IR2130
+D 600V, Vout 10-20V, PDIP-28
+K 3 Phase Gate Driver
+F https://www.infineon.com/dgdl/Infineon-IR2130-DataSheet-v01_00-EN.pdf?fileId=5546d462533600a4015355c8757d169a
+$ENDCMP
+#
+#End Doc Library
